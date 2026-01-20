@@ -26,7 +26,6 @@ declare(strict_types=1);
 namespace BaksDev\Drom\Repository\DromAuthorizationByProfile\Tests;
 
 use BaksDev\Drom\Products\UseCase\NewEdit\Tests\DromProductNewTest;
-use BaksDev\Drom\Repository\AllDromToken\DromTokensResult;
 use BaksDev\Drom\Repository\DromAuthorizationByProfile\DromAuthorizationByProfileInterface;
 use BaksDev\Drom\Repository\DromAuthorizationByProfile\DromAuthorizationByProfileRepository;
 use BaksDev\Drom\Type\Authorization\DromTokenAuthorization;
